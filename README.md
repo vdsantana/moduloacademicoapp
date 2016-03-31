@@ -22,3 +22,4 @@ Vantagens:
   - Notificações Push 
   - Relatórios mais intuitivos
   
+<img src="http://taplend.com/img/google-play-cs.png" />
