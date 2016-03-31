@@ -4,10 +4,10 @@ Aplicativo para Android para Acesso mais eficiente ao Módulo Acadêmico do CEFE
 
 
 Tela de Login
-![alt tag](http://i.imgur.com/RTUWfdx.png =324x576)
+<img src="http://i.imgur.com/RTUWfdx.png" style="width: 324px; height:576px;"/>
 
 Dashboard
-![alt tag](http://i.imgur.com/9JvpqFY.jpg =324x576)
+<img src="http://i.imgur.com/9JvpqFY.jpg" style="width: 324px;height:576px;"/>
 
 Lista de Matérias
 ![alt tag](http://i.imgur.com/upUK7jO.jpg =324x576)
