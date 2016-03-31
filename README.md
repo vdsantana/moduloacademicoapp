@@ -18,7 +18,7 @@ A principal proposta é utilizar o sistema acadêmico de forma mais natural em u
 
 Vantagens:
   
-  - Menos uso de DADOS MÓVEL (Economia de 70%)
+  - Menos uso de DADOS MÓVEIS (Economia de 70%)
   - Notificações Push 
   - Relatórios mais intuitivos
   
