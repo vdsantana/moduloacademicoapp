@@ -4,13 +4,13 @@ Aplicativo para Android para Acesso mais eficiente ao Módulo Acadêmico do CEFE
 
 
 Tela de Login
-![alt tag](http://i.imgur.com/RTUWfdx.png)
+![alt tag](http://i.imgur.com/RTUWfdx.png =324x576)
 
 Dashboard
-![alt tag](http://i.imgur.com/9JvpqFY.jpg)
+![alt tag](http://i.imgur.com/9JvpqFY.jpg =324x576)
 
 Lista de Matérias
-![alt tag](http://i.imgur.com/upUK7jO.jpg)
+![alt tag](http://i.imgur.com/upUK7jO.jpg =324x576)
 
 Qual a proposta do App?
 
