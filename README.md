@@ -3,7 +3,7 @@
 Aplicativo para Android para Acesso mais eficiente ao Módulo Acadêmico do CEFET-MG
 
 <p align="center">
-  <b>Tela de Login<b> <br />
+  <b>Tela de Login</b> <br />
   <img src="http://i.imgur.com/RTUWfdx.png" width="324"/> <br /><br />
   
   <b>Dashboard</b> <br />
