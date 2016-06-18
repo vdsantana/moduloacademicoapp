@@ -4,13 +4,13 @@ Aplicativo para Android para Acesso mais eficiente ao Módulo Acadêmico do CEFE
 
 
 Tela de Login
-<img src="http://i.imgur.com/RTUWfdx.png" style="width: 324px; height:576px;"/>
+<img src="http://i.imgur.com/RTUWfdx.png" width="324"/>
 
 Dashboard
-<img src="http://i.imgur.com/9JvpqFY.jpg" style="width: 324px;height:576px;"/>
+<img src="http://i.imgur.com/9JvpqFY.jpg" width="324"/>
 
 Lista de Matérias
-![alt tag](http://i.imgur.com/upUK7jO.jpg =324x576)
+<img src="http://i.imgur.com/upUK7jO.jpg" width="324"/>
 
 Qual a proposta do App?
 
@@ -22,4 +22,4 @@ Vantagens:
   - Notificações Push 
   - Relatórios mais intuitivos
   
-<img src="http://taplend.com/img/google-play-cs.png" />
+<img src="http://taplend.com/img/google-play-cs.png" width="175"/>
