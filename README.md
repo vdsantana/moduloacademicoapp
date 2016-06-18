@@ -23,4 +23,8 @@ Vantagens:
   - Notificações Push 
   - Relatórios mais intuitivos
   
+ Back-end:
+ 
+ Desenvolvido com JSP(JavaServer Pages) e Java(utilizando a lib HtmlUnit para <i>parsear</i> o código das páginas do Sistema Acadêmico.
+  
 <img src="http://taplend.com/img/google-play-cs.png" width="175"/>
