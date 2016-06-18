@@ -13,18 +13,18 @@ Aplicativo para Android para Acesso mais eficiente ao Módulo Acadêmico do CEFE
   <img src="http://i.imgur.com/upUK7jO.jpg" width="324"/> <br /><br />
 </p>
 
-Qual a proposta do App?
+<b>Qual a proposta do App?</b>
 
 A principal proposta é utilizar o sistema acadêmico de forma mais natural em um ecossistema mobile.
 
-Vantagens:
+<b>Vantagens:</b>
   
   - Menos uso de DADOS MÓVEIS (Economia de 70%)
   - Notificações Push 
   - Relatórios mais intuitivos
   
- Back-end:
+<b>Back-end:</b>
  
- Desenvolvido com JSP(JavaServer Pages) e Java(utilizando a lib HtmlUnit para <i>parsear</i> o código das páginas do Sistema Acadêmico.
+Desenvolvido com JSP(JavaServer Pages) e Java(utilizando a lib HtmlUnit para <i>parsear</i> o código das páginas do Sistema Acadêmico.
   
 <img src="http://taplend.com/img/google-play-cs.png" width="175"/>
